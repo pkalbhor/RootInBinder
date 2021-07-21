@@ -1,0 +1,11 @@
+dpkg-dev 
+cmake 
+g++ 
+gcc 
+binutils 
+libx11-dev 
+libxpm-dev 
+libxft-dev 
+libxext-dev 
+libssl-dev
+wget
