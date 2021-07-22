@@ -11,4 +11,3 @@ libssl-dev
 wget
 
 vim
-julia
