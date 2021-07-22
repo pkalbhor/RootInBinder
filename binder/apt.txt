@@ -9,3 +9,5 @@ libxft-dev
 libxext-dev 
 libssl-dev
 wget
+
+vim
