@@ -9,3 +9,4 @@ dependencies:
   - root
   - nbconvert==6.1.0
   - notebook==6.4.0
+  - bash_kernel==0.7.2
