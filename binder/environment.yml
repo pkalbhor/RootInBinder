@@ -1,12 +1,12 @@
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
-  - notebook=6.4.0
-  - jupyterhub=1.4.1
-  - jupyterlab==3.0.16
+  - python
+  - notebook
+  - jupyterhub
+  - jupyterlab
   - pip
   - root==6.22.06
-  - nbconvert==6.1.0
-  - notebook==6.4.0
-  - bash_kernel==0.7.2
+  - nbconvert
+  - notebook
+  - bash_kernel
